@@ -1,0 +1,21 @@
+continente;pais;nombre;Ticket;nombre2
+Europa;España;IBEX Limited;IBEX;IBEX
+Europa;Gran Bretaña;FTSE 100;^FTSE;FTSE
+Europa;Francia;CAC 40;^FCHI;FCHI
+Europa;Alemania;Global X DAX Germany ETF;DAX;DAX
+Europa;Italia;FTSE MIB;FTSEMIB.MI;FTSEMIBMI
+Europa;Paises Bajos;AEX-Index;^AEX;AEX
+Europa;Europa;Eurostoxx 50;BBVAE.MC;BBVAEMC
+Asia;Hong Kong;HANG SENG INDEX;^HSI;HSI
+Asia;China;Hang Seng China Enterprises Index ETF;2828.HK;2828HK
+Asia;India;NIFTY 50;^NSEI;NSEI
+Asia;Japón;Nikkei 225;^N225;N225
+Asia;Corea;KOSPI Composite Index;^KS11;KS11
+Asia;Malasia;FTSE Bursa Malaysia KLCI;^KLSE;KLSE
+Asia;Singapur;SPDR Straits Times Index ETF;ES3.SI;ES3SI
+América;EEUU;Dow Jones;^DJI;DJI
+América;EEUU;NASDAQ Composite;^IXIC;IXIC
+América;EEUU;S&P 500;^GSPC;GSPC
+América;Brasil;IBOVESPA;^BVSP;BVSP
+América;México;IPC MEXICO;^MXX;MXX
+América;Argentina;MERVAL;M.BA;MBA
